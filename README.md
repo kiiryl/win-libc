@@ -1,0 +1,2 @@
+# WIN-LIBC
+My own implementation of libc in Windows. I wrote this since I just want **clang** to be working in and I don't have to use other dependencies. It's currently in working progress and don't expect it to be quick even if It's already in a release version. If you want to use a real and better libc, you should use **mingw** or just install **visual studio (the official one, but I prefer mingw anyways)**. 
